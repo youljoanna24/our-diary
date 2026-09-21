@@ -16,7 +16,15 @@
     "delivery": false
   },
   "reactions": {},
-  "comments": [],
+  "comments": [
+    {
+      "id": "4023c2e9-9724-4783-942a-d05a9b0a5cf3",
+      "author": "뇰",
+      "text": "그런데 하치와레는 왜 가르마로 번역이 되는가",
+      "image": null,
+      "createdAt": "2026-09-21T09:53:33.453Z"
+    }
+  ],
   "createdAt": "2026-09-21T09:53:13.840Z",
-  "updatedAt": "2026-09-21T09:53:19.044Z"
+  "updatedAt": "2026-09-21T09:53:33.454Z"
 }
